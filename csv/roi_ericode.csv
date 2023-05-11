@@ -1,0 +1,140 @@
+﻿routing_key,region,country
+A41,Ballyboughal,Republic of Ireland
+A42,Garristown,Republic of Ireland
+A45,"Oldtown, Dublin",Republic of Ireland
+A63,"Greystones, Kilcoole, Newtownmountkennedy, Delgany, Newcastle",Republic of Ireland
+A67,"Wicklow, Rathnew",Republic of Ireland
+A75,"Castleblayney, Ballybay",Republic of Ireland
+A81,Carrickmacross,Republic of Ireland
+A82,"Kells, County Meath, Kingscourt, Virginia",Republic of Ireland
+A83,"Enfield, Summerhill",Republic of Ireland
+A84,Ashbourne,Republic of Ireland
+A85,"Dunshaughlin, Ratoath",Republic of Ireland
+A86,Dunboyne,Republic of Ireland
+A91,Dundalk,Republic of Ireland
+A92,"Drogheda, Ardee, Laytown-Bettystown-Mornington",Republic of Ireland
+A94,"Blackrock, Monkstown, Booterstown",Republic of Ireland
+A96,"Dún Laoghaire, Dalkey, Sallynoggin, Glenageary",Republic of Ireland
+A98,"Bray, Kilmacanogue, Enniskerry, Roundwood",Republic of Ireland
+C15,"Trim, Navan, Athboy",Republic of Ireland
+D01,Dublin 1,Republic of Ireland
+D02,Dublin 2,Republic of Ireland
+D03,Dublin 3,Republic of Ireland
+D04,Dublin 4,Republic of Ireland
+D05,Dublin 5,Republic of Ireland
+D06,Dublin 6,Republic of Ireland
+D6W,Dublin 6W,Republic of Ireland
+D07,Dublin 7,Republic of Ireland
+D08,Dublin 8,Republic of Ireland
+D09,Dublin 9,Republic of Ireland
+D10,Dublin 10,Republic of Ireland
+D11,Dublin 11,Republic of Ireland
+D12,Dublin 12,Republic of Ireland
+D13,Dublin 13,Republic of Ireland
+D14,Dublin 14,Republic of Ireland
+D15,Dublin 15,Republic of Ireland
+D16,Dublin 16,Republic of Ireland
+D17,Dublin 17,Republic of Ireland
+D18,Dublin 18,Republic of Ireland
+D20,Dublin 20,Republic of Ireland
+D22,Dublin 22,Republic of Ireland
+D24,Dublin 24,Republic of Ireland
+E21,Cahir,Republic of Ireland
+E25,Cashel,Republic of Ireland
+E32,Carrick-on-Suir,Republic of Ireland
+E34,Tipperary,Republic of Ireland
+E41,"Thurles, Templemore, Urlingford",Republic of Ireland
+E45,Nenagh,Republic of Ireland
+E53,Roscrea,Republic of Ireland
+E91,"Clonmel, Fethard",Republic of Ireland
+F12,"Knock, Swinford, Claremorris",Republic of Ireland
+F23,Castlebar,Republic of Ireland
+F26,"Ballina, Bangor Erris",Republic of Ireland
+F28,"Westport, Achill Island",Republic of Ireland
+F31,Ballinrobe,Republic of Ireland
+F35,Ballyhaunis,Republic of Ireland
+F42,"Roscommon, Strokestown",Republic of Ireland
+F45,"Castlerea, Glenamaddy",Republic of Ireland
+F52,Boyle,Republic of Ireland
+F56,Ballymote,Republic of Ireland
+F91,"Sligo, Manorhamilton, Tubbercurry, Collooney, Strandhill",Republic of Ireland
+F92,Letterkenny,Republic of Ireland
+F93,"Lifford, Carndonagh, Buncrana",Republic of Ireland
+F94,"Bundoran, Donegal, Ballyshannon",Republic of Ireland
+H12,Cavan,Republic of Ireland
+H14,Belturbet,Republic of Ireland
+H16,Cootehill,Republic of Ireland
+H18,Monaghan,Republic of Ireland
+H23,Clones,Republic of Ireland
+H53,"Ballinasloe, Portumna",Republic of Ireland
+H54,Tuam,Republic of Ireland
+H62,Loughrea,Republic of Ireland
+H65,Athenry,Republic of Ireland
+H71,Clifden,Republic of Ireland
+H91,"Galway, Spiddal, Headford, Ballyvaughan, Oranmore",Republic of Ireland
+K32,Balbriggan,Republic of Ireland
+K34,Skerries,Republic of Ireland
+K36,"Malahide, Donabate",Republic of Ireland
+K45,Lusk,Republic of Ireland
+K56,Rush,Republic of Ireland
+K67,Swords,Republic of Ireland
+K78,Lucan,Republic of Ireland
+N37,"Athlone, Moate",Republic of Ireland
+N39,"Longford, Ballymahon, Edgeworthstown, Granard, Lanesborough",Republic of Ireland
+N41,Carrick-on-Shannon,Republic of Ireland
+N91,"Mullingar, Kinnegad",Republic of Ireland
+P12,Macroom,Republic of Ireland
+P14,Crookstown,Republic of Ireland
+P17,Kinsale,Republic of Ireland
+P24,Cobh,Republic of Ireland
+P25,Midleton,Republic of Ireland
+P31,Ballincollig,Republic of Ireland
+P32,Rylane,Republic of Ireland
+P36,Youghal,Republic of Ireland
+P43,Carrigaline,Republic of Ireland
+P47,Dunmanway,Republic of Ireland
+P51,"Mallow, Rathmore, Cappoquin, Lismore",Republic of Ireland
+P56,Charleville,Republic of Ireland
+P61,"Fermoy, Rathcormac",Republic of Ireland
+P67,Mitchelstown,Republic of Ireland
+P72,"Bandon, County Cork",Republic of Ireland
+P75,"Bantry, Glengarriff",Republic of Ireland
+P81,"Skibbereen, Baltimore",Republic of Ireland
+P85,"Clonakilty, Rosscarbery",Republic of Ireland
+R14,Athy,Republic of Ireland
+R21,Muine Bheag/Bagenalstown,Republic of Ireland
+R32,"Portlaoise, Abbeyleix, Portarlington",Republic of Ireland
+R35,Tullamore,Republic of Ireland
+R42,"Birr, Banagher",Republic of Ireland
+R45,Edenderry,Republic of Ireland
+R51,Kildare,Republic of Ireland
+R56,Curragh,Republic of Ireland
+R93,"Carlow, Tullow",Republic of Ireland
+R95,"Kilkenny, Graiguenamanagh, Thomastown",Republic of Ireland
+T12,"Cork City (City Centre & Southside), Passage West",Republic of Ireland
+T23,"Cork City (Northside), Blarney",Republic of Ireland
+T34,Carrignavar,Republic of Ireland
+T45,"Glanmire, Carrigtwohill",Republic of Ireland
+T56,Watergrasshill,Republic of Ireland
+V14,Shannon,Republic of Ireland
+V15,"Kilrush, Kilkee",Republic of Ireland
+V23,Caherciveen,Republic of Ireland
+V31,Listowel,Republic of Ireland
+V35,Kilmallock,Republic of Ireland
+V42,Newcastle West,Republic of Ireland
+V92,"Tralee, Dingle",Republic of Ireland
+V93,"Kenmare, Killarney",Republic of Ireland
+V94,"Limerick, Abbeyfeale, Newport, Killaloe",Republic of Ireland
+V95,"Miltown Malbay, Ennis, Kildysart",Republic of Ireland
+W12,Newbridge,Republic of Ireland
+W23,"Maynooth, Celbridge, Leixlip, Kilcock, Straffan",Republic of Ireland
+W34,Monasterevin,Republic of Ireland
+W91,"Naas, Blessington, Clane, Sallins",Republic of Ireland
+X35,Dungarvan,Republic of Ireland
+X42,"Kilmacthomas, Bunmahon",Republic of Ireland
+X91,"Waterford, Dunmore East, Tramore",Republic of Ireland
+Y14,Arklow,Republic of Ireland
+Y21,"Enniscorthy, Bunclody",Republic of Ireland
+Y25,Gorey,Republic of Ireland
+Y34,"New Ross, Fethard-on-Sea",Republic of Ireland
+Y35,"Wexford, Rosslare",Republic of Ireland
