@@ -9,7 +9,7 @@ BF,British Forces,36.3495,-4.67733,Non-geographic,Non-geographic
 BH,Bournemouth,50.7506,-1.89122,South East,England
 BL,Bolton,53.5868,-2.40786,North West,England
 BN,Brighton,50.829,-0.120094,South East,England
-BR,Bromley,51.3944,0.0424388,South East,England
+BR,Bromley,51.3944,0.0424388,London,England
 BS,Bristol,51.4489,-2.62244,South West,England
 BT,Northern Ireland,54.604,-6.38078,Northern Ireland,Northern Ireland
 CA,Carlisle,54.7319,-3.10714,North West,England
@@ -18,7 +18,7 @@ CF,Cardiff,51.5342,-3.29403,Wales,Wales
 CH,Chester,53.2905,-3.02023,Wales,Wales
 CM,Chelmsford,51.7586,0.403504,East of England,England
 CO,Colchester,51.9026,0.924412,East of England,England
-CR,Croydon,51.356,-0.103496,South East,England
+CR,Croydon,51.356,-0.103496,London,England
 CT,Canterbury,51.2555,1.23171,South East,England
 CV,Coventry,52.3668,-1.50071,East Midlands,England
 CW,Crewe,53.1549,-2.44976,West Midlands,England
@@ -49,7 +49,7 @@ HR,Hereford,52.0652,-2.72022,West Midlands,England
 HS,Outer Hebrides,57.9782,-6.69501,Scotland,Scotland
 HU,Hull,53.7684,-0.354393,Yorkshire and The Humber,England
 HX,Halifax,53.7204,-1.89276,Yorkshire and The Humber,England
-IG,Ilford,51.584,0.0720918,East of England,England
+IG,Ilford,51.584,0.0720918,London,England
 IP,Ipswich,52.1955,1.08118,East of England,England
 IV,Inverness,57.5859,-4.1163,Scotland,Scotland
 KA,Kilmarnock,55.5642,-4.60677,Scotland,Scotland
@@ -72,7 +72,7 @@ N,North London,51.5854,-0.114194,London,England
 NE,Newcastle upon Tyne,55.0366,-1.64208,North East,England
 NG,Nottingham,53.0055,-1.07176,East Midlands,England
 NN,Northampton,52.2889,-0.840499,East Midlands,England
-NP,Newport,51.6727,-3.01554,London,England
+NP,Newport,51.6727,-3.01554,Wales,Wales
 NR,Norwich,52.6458,1.33968,East of England,England
 NW,North West London,51.555,-0.197116,London,England
 OL,Oldham,53.5816,-2.12594,Yorkshire and The Humber,England
@@ -85,14 +85,14 @@ PO,Portsmouth,50.8022,-1.03426,South East,England
 PR,Preston,53.7231,-2.75213,North West,England
 RG,Reading,51.4045,-1.02712,South East,England
 RH,Redhill,51.1103,-0.207969,South East,England
-RM,Romford,51.5468,0.217206,East of England,England
+RM,Romford,51.5468,0.217206,London,England
 S,Sheffield,53.3935,-1.41166,East Midlands,England
 SA,Swansea,51.7605,-4.20656,Wales,Wales
 SE,South East London,51.4669,-0.0356602,London,England
 SG,Stevenage,51.9471,-0.15921,East of England,England
 SK,Stockport,53.3712,-2.09838,East Midlands,England
 SL,Slough,51.5152,-0.642131,South East,England
-SM,Sutton,51.3628,-0.184404,South East,England
+SM,Sutton,51.3628,-0.184404,London,England
 SN,Swindon,51.5059,-1.89377,South East,England
 SO,Southampton,50.9299,-1.39154,South East,England
 SP,Salisbury,51.1088,-1.77939,South East,England
@@ -104,21 +104,24 @@ SY,Shrewsbury,52.6643,-3.04696,Wales,Wales
 TA,Taunton,51.0556,-3.06623,South West,England
 TD,Galashiels,55.6151,-2.52397,North East,England
 TF,Telford,52.7129,-2.46193,West Midlands,England
-TN,Tonbridge,51.0852,0.442318,London,England
+TN,Tonbridge,51.0852,0.442318,South East,England
 TQ,Torquay,50.459,-3.61617,South West,England
 TR,Truro,50.2121,-5.2418,South West,England
 TS,Cleveland,54.5849,-1.22409,Yorkshire and The Humber,England
-TW,Twickenham,51.4487,-0.389973,South East,England
+TW,Twickenham,51.4487,-0.389973,London,England
 UB,Southall,51.5276,-0.416893,London,England
 W,West London,51.5114,-0.193443,London,England
-WA,Warrington,53.3905,-2.59121,London,England
+WA,Warrington,53.3905,-2.59121,North West,England
 WC,Central London,51.5176,-0.122523,London,England
 WD,Watford,51.6586,-0.393594,London,England
-WF,Wakefield,53.6855,-1.49578,London,England
-WN,Wigan,53.5344,-2.6373,London,England
-WR,Worcester,52.1632,-2.16899,London,England
-WS,Walsall,52.6496,-1.95686,London,England
-WV,Wolverhampton,52.5809,-2.16206,London,England
+WF,Wakefield,53.6855,-1.49578,Yorkshire and the Humber,England
+WN,Wigan,53.5344,-2.6373,North West,England
+WR,Worcester,52.1632,-2.16899,West Midlands,England
+WS,Walsall,52.6496,-1.95686,West Midlands,England
+WV,Wolverhampton,52.5809,-2.16206,West Midlands,England
 YO,York,54.0451,-0.886615,Yorkshire and The Humber,England
 ZE,Lerwick,60.2193,-1.19859,Scotland,Scotland
 ROI,Republic of Ireland,53.4129,-8.2439,Republic of Ireland,Republic of Ireland
+IM,Isle of Man,54.225,-4.533,Crown Dependencies,British Islands
+GY,Bailiwick of Guernsey,49.4,-2.6,Crown Dependencies,British Islands
+JE,Bailiwick of Jersey,49.19,-2.11,Crown Dependencies,British Islands
